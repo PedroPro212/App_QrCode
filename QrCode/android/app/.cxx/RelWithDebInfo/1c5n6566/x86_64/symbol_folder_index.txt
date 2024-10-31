@@ -1,0 +1,1 @@
+C:\Codigos\App_QrCode\QrCode\android\app\build\intermediates\cxx\RelWithDebInfo\1c5n6566\obj\x86_64
