@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 import { View, Image, Text, Alert, Button, TouchableOpacity } from 'react-native';
-import RNFS from 'react-native-fs';
 
+// Meus componentes
 import styles from '../style/home.style';
 import Input from '../../../shared/components/input/Input';
 import ButtonCustom from '../../../shared/components/button/Button';
 
+// Minhas funções
 import { generateQRCode } from '../../../shared/functions/gerarQrCode/gerarQRCode';
 import { downloadImage } from '../../../shared/functions/downloadQrCode/downloadQRCode';
 
