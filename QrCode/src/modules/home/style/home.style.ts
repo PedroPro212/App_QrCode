@@ -5,17 +5,17 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center', // Alinha o conteúdo horizontalmente no centro
-        backgroundColor: '#232323',
+        backgroundColor: '#1a1a1a',
     },
     title: {
-        fontSize: 20,
+        fontSize: 28,
         color: '#FFFFFF',
         textAlign: 'center', // Centraliza o texto do título
         marginBottom: 20,    // Espaçamento abaixo do título para dar mais organização visual
     },
     qrCodeImage: {
-        width: 150,
-        height: 150,
+        width: 250,
+        height: 250,
     },
     download: {
         width: 40,
